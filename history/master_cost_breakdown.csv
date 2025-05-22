@@ -1,0 +1,11 @@
+Cost Component,Amount ($),Provider,Timestamp
+Storage,0.09,Amazon S3,2025-05-07 13:27:31
+OCR Processing,0.71,Amazon S3,2025-05-07 13:27:31
+Manpower,35.50,Amazon S3,2025-05-07 13:27:31
+Scanning,1.42,Amazon S3,2025-05-07 13:27:31
+Total Estimated,37.72,Amazon S3,2025-05-07 13:27:31
+Storage,7.37,Amazon S3,2025-05-07 13:27:57
+OCR Processing,8.00,Amazon S3,2025-05-07 13:27:57
+Manpower,240.00,Amazon S3,2025-05-07 13:27:57
+Scanning,16.00,Amazon S3,2025-05-07 13:27:57
+Total Estimated,271.37,Amazon S3,2025-05-07 13:27:57

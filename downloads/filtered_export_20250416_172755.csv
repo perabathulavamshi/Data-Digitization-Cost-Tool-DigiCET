@@ -1,0 +1,5 @@
+Timestamp,Pages,Size (GB),Provider,Retention (mo),Total ($)
+2025-04-16 15:29:22,291,0.01,Google Cloud Storage,180,64.2
+2025-04-16 15:31:13,115,0.0,Amazon S3,120,53.8
+2025-04-16 15:32:26,11,0.0,Amazon S3,1,50.36
+2025-04-16 17:14:31,11,0.0,Amazon S3,120,50.37
