@@ -1,0 +1,54 @@
+{
+    "project_name": "Data Digitization Cost Estimator",
+    "description": "A Streamlit-based web application designed to estimate the cost of digitizing paper-based documents and storing them on leading cloud platforms like AWS, Google Cloud, and Microsoft Azure. Users can either upload PDF files or manually input the number of pages to simulate a digitization project. The tool calculates storage costs using real-time pricing data from cloud provider APIs and includes options for custom OCR, scanning, manpower effort, and licensing costs. It provides a detailed cost breakdown, customizable pricing inputs, downloadable PDF and CSV reports, and interactive visual dashboards. Additionally, the tool offers a smart recommendation engine that compares all providers to identify the most cost-effective cloud storage solution. PDF summarization using AI and chatbot integration for project guidance are also included.",
+    "features": [
+      "PDF Upload and Metadata Extraction",
+      "Manual Page Entry Option",
+      "Live Cloud Storage Cost Estimation (AWS, GCP, Azure)",
+      "Custom Pricing Options",
+      "Cost Breakdown and Visual Dashboards",
+      "PDF Report Generation",
+      "Historical Estimate Tracking and Filtering",
+      "Multi-Cloud Provider Cost Comparison",
+      "Smart Recommendation Engine for Best Provider",
+      "PDF Summarization with AI"
+    ],
+    "working": [
+        "Upload PDFs or manually enter page counts to simulate digitization.",
+        "Estimate cloud storage cost using real-time API data from AWS, GCP, and Azure.",
+        "Customize pricing for storage, OCR, scanning, manpower, and software licensing.",
+        "Generate downloadable cost and history reports in CSV and PDF formats.",
+        "Visualize cost trends, provider comparisons, and historical data via interactive charts.",
+        "Smart recommendation engine for selecting the cheapest cloud provider.",
+        "AI-powered PDF summarizer for document understanding.",
+        "Integrated chatbot support to guide users through project features and usage."
+      ],
+    "target_users": [
+      "Government agencies",
+      "Large enterprises",
+      "Organizations undergoing digital transformation"
+    ],
+    "tech_stack": [
+        "Streamlit",
+        "Python",
+        "Altair (for visualizations)",
+        "PyMuPDF (fitz)",
+        "Requests (API integration)",
+        "FPDF (PDF generation)",
+        "Mistral-7B for summarization"
+    ],
+    "modules": {
+        "Cost_Estimator": "Handles all logic for estimating digitization and storage costs.",
+        "Visualizer": "Renders various cost-related visual charts in tabbed format.",
+        "Report_Generator": "Exports cost and history data to CSV and PDF reports.",
+        "Summarize_PDF": "Summarizes the contents of uploaded PDF files using LLM.",
+        "project_knowledge": "Chatbot-aware module that answers questions about the project scope, features, and architecture."
+    },
+    "future_scope": [
+      "Integration with cloud billing APIs",
+      "User authentication and role-based access",
+      "Historical analytics over time",
+      "Cloud storage cost forecasting"
+    ]
+  }
+  
