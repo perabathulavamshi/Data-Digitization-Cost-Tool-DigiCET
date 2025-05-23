@@ -56,10 +56,9 @@ An AI-powered Streamlit application to **estimate document digitization costs** 
 
 ### 1. Clone the Repository
 
-```bash
 git clone https://github.com/perabathulavamshi/Data-Digitization-Cost-Tool-DigiCET.git
 cd Data-Digitization-Cost-Tool-DigiCET
-```bash
+
 ### 2. Install Dependencies
 We recommend using conda or venv for environment isolation.
 pip install -r requirements.txt
