@@ -34,12 +34,19 @@ An AI-powered Streamlit application to **estimate document digitization costs** 
 
 ## 📂 Folder Structure
 ├── Cost_Estimator.py # Core logic for cost calculation
+
 ├── Summarize_PDF.py # Mistral-7B-based summarization module
+
 ├── Visualizer.py # Dashboard rendering
+
 ├── Reports_Generator.py # Report (PDF/CSV) creation
+
 ├── app.py # Main Streamlit app
+
 ├── Dockerfile # Docker setup
+
 ├── downloads/, history/, reports/ # Output & session tracking
+
 
 
 
@@ -53,11 +60,11 @@ An AI-powered Streamlit application to **estimate document digitization costs** 
 git clone https://github.com/perabathulavamshi/Data-Digitization-Cost-Tool-DigiCET.git
 cd Data-Digitization-Cost-Tool-DigiCET
 
-2. Install Dependencies
+### 2. Install Dependencies
 We recommend using conda or venv for environment isolation.
 pip install -r requirements.txt
 
-3. Run the Application
+### 3. Run the Application
 streamlit run app.py
 
 📦 Docker Support
@@ -65,12 +72,12 @@ You can also run the entire tool using Docker:
 docker build -t digitool .
 docker run -p 8501:8501 digitool
 
-📄 Sample Reports
+##📄 Sample Reports
 PDF & CSV Output: Cost breakdown, session history, multi-provider comparison
 
 Viewable under the /reports folder once estimation is complete
 
-📘 Documentation
+##📘 Documentation
 Refer to the full Capstone Project report for detailed breakdowns of:
 
 Cloud pricing logic
@@ -82,7 +89,7 @@ Technical limitations and enhancements
 Use cases across public departments
 📄 Report: Data Digitization Cost Estimator Report.pdf
 
-📥 Contributions
+##📥 Contributions
 This project was developed as a Capstone Project for:
 City of Stockton in collaboration with
 University of the Pacific – Master of Data Science Program
@@ -102,7 +109,7 @@ Chaitanya Vishnu Radhakrishna
 
 Chen-Li Lee
 
-📬 Contact
+##📬 Contact
 For implementation support, clarification, or deployment inquiries:
 📧 Vamshi Krishna Perabathula
 
