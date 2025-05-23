@@ -121,7 +121,10 @@ Chen-Li Lee
 
 ## 📬 Contact
 For implementation support, clarification, or deployment inquiries:
-📧 Vamshi Krishna Perabathula
+
+**Name**: Vamshi Krishna Perabathula  
+**Email**: [vamshikrish485@gmail.com](mailto:vamshikrish485@gmail.com)  
+**LinkedIn**: [Vamshi Krishna Perabathula](https://www.linkedin.com/in/vk-perabathula/)
 
 
 
