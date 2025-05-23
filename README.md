@@ -94,7 +94,7 @@ Technical limitations and enhancements
 
 Use cases across public departments
 
-## 📄 Report: Data Digitization Cost Estimator Report.pdf
+#### 📄 Report: Data Digitization Cost Estimator Report.pdf
 
 ## 📥 Contributions
 This project was developed as a Capstone Project for:
