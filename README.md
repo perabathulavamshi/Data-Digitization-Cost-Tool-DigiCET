@@ -68,7 +68,7 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
-📦 Docker Support
+## 📦 Docker Support
 
 You can also run the entire tool using Docker:
 
@@ -76,13 +76,13 @@ docker build -t digitool .
 
 docker run -p 8501:8501 digitool
 
-##📄 Sample Reports
+## 📄 Sample Reports
 
 PDF & CSV Output: Cost breakdown, session history, multi-provider comparison
 
 Viewable under the /reports folder once estimation is complete
 
-##📘 Documentation
+## 📘 Documentation
 
 Refer to the full Capstone Project report for detailed breakdowns of:
 
@@ -93,15 +93,19 @@ Manpower cost calculations
 Technical limitations and enhancements
 
 Use cases across public departments
-📄 Report: Data Digitization Cost Estimator Report.pdf
 
-##📥 Contributions
+## 📄 Report: Data Digitization Cost Estimator Report.pdf
+
+## 📥 Contributions
 This project was developed as a Capstone Project for:
+
 City of Stockton in collaboration with
+
 University of the Pacific – Master of Data Science Program
+
 Guided by: Prof. Arshad Khan
 
-👥 Team:
+## 👥 Team:
 
 Purva Mugdiya
 
@@ -115,7 +119,7 @@ Chaitanya Vishnu Radhakrishna
 
 Chen-Li Lee
 
-##📬 Contact
+## 📬 Contact
 For implementation support, clarification, or deployment inquiries:
 📧 Vamshi Krishna Perabathula
 
