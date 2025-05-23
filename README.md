@@ -61,22 +61,29 @@ cd Data-Digitization-Cost-Tool-DigiCET
 
 ### 2. Install Dependencies
 We recommend using conda or venv for environment isolation.
+
 pip install -r requirements.txt
 
 ### 3. Run the Application
+
 streamlit run app.py
 
 📦 Docker Support
+
 You can also run the entire tool using Docker:
+
 docker build -t digitool .
+
 docker run -p 8501:8501 digitool
 
 ##📄 Sample Reports
+
 PDF & CSV Output: Cost breakdown, session history, multi-provider comparison
 
 Viewable under the /reports folder once estimation is complete
 
 ##📘 Documentation
+
 Refer to the full Capstone Project report for detailed breakdowns of:
 
 Cloud pricing logic
